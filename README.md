@@ -6,6 +6,6 @@
 
 ![Heatmap](https://www.gitskins.com/api/section/heatmap?username=mayzor15&theme=aurora&style=jet&mode=dark)
 
-![Stack](https://www.gitskins.com/api/section/stack?username=mayzor15&theme=aurora)
+<!-- ![Stack](https://www.gitskins.com/api/section/stack?username=mayzor15&theme=aurora) -->
 
 ![Projects](https://www.gitskins.com/api/section/projects?username=mayzor15&theme=aurora)
